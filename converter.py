@@ -25,9 +25,8 @@ for y in range(img.height):
   for x in range(img.width):
     pixel = img.getpixel((x, y))
     pixhex = '%02x%02x%02x' % pixel
-    finalpix = "#" + str(pixhex)
 
-    output[f'{x + 1}x{y + 1}'] = finalpix
+    output[f'{x + 1}x{y + 1}'] = pixhex
 
 print("Colors loaded!\n")
 
