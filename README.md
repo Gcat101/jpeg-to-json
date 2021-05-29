@@ -1,4 +1,7 @@
 # jpeg-to-json
+
+![jpegtojson](https://user-images.githubusercontent.com/79367505/120079901-c5d01600-c0be-11eb-96bb-feb6ae061afc.jpg)
+
 Writes HEX color codes from jpeg into json.
 
 # How this works?
